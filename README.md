@@ -33,6 +33,8 @@
     <a href = "mailto:chrystine.martins@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/chrystine-martins-965a261b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+  
+ ![snake gif](https://github.com/Chrysthy/Chrysthy/blob/output/github-contribution-grid-snake.svg)
+ 
   </div>
  
- ![snake gif](https://github.com/Chrysthy/Chrysthy/blob/output/github-contribution-grid-snake.svg)
