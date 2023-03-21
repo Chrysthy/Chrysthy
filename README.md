@@ -35,5 +35,5 @@
   </div>
     
     
-![Snake animation]https://github.com/Chrysthy/Chrysthy
+![Snake animation](https://github.com/Chrysthy/Chrysthy)
  
