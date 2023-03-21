@@ -35,5 +35,5 @@
   </div>
     
     
-![Snake animation](https://github.com/Chrysthy)
+![Snake animation](https://github.com/chrysthy/chryshty/blob/output/github-contribution-grid-snake.svg)
  
