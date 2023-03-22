@@ -9,8 +9,8 @@
 - 📚 " I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer." Chris Gardner.
 
  <div>
-  <a href="https://github.com/chyshty">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/chryshty">
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula"" alt="chrysthy" />
 </div>
 
 
@@ -34,5 +34,5 @@
   <a href="https://www.linkedin.com/in/chrystine-martins-965a261b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
    
-
+![Snake animation](https://github.com/chrysthy/chrysthy/blob/output/github-contribution-grid-snake.svg)
  
