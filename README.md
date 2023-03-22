@@ -9,7 +9,7 @@
 - 📚 " I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer." Chris Gardner.
 
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/chyshty">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
