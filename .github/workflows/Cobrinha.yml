@@ -39,7 +39,7 @@ jobs:
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          # the output branch we mentioned above
+          # the main branch we mentioned above
           target_branch: main
           build_dir: dist
         env:
