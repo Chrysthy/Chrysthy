@@ -37,5 +37,5 @@
   
  
  
-  ![Snake animation](https://github.com/chrysthy/chrysthy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/chrysthy/chrysthy/blob/main/github-contribution-grid-snake.svg)
  
