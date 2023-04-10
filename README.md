@@ -1,6 +1,5 @@
 <h1> Hello, I'm Chrystine and it's a pleasure to meet you! </h1>
 
-
 - 💻 Web Developer Beginner.
 - 🎮 Gamer girl.
 - 🌱  I’m always learning and improving my skills .
@@ -8,16 +7,18 @@
 - ⛰️BH / 🏖 RJ - Brazil.
 - 📚 " I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer." Chris Gardner.
 
+<hr>
+<br>
  <div>
   <a href="https://github.com/chryshty">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula"" alt="chrysthy" />
 
-<img align="center" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula"/>
+<img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula"/>
 
 </div>
 
 
-
+<br>
 <h1> Languages </h1>
 
 <div style="display: inline_block"><br>
@@ -30,7 +31,7 @@
 </div>
 
 
-
+<br>
 <h1> Connect with me </h1>
 
 <div> 
@@ -40,15 +41,18 @@
     <a href = "mailto:chrystine.martins@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
  
   
-   <img align="left" height="150" width="150" src="https://user-images.githubusercontent.com/126017173/230391904-dade60ab-7f71-4edf-bbad-a6bc4b604546.png" >
+ <p align="right"><img height="150" width="150" src="https://user-images.githubusercontent.com/126017173/230391904-dade60ab-7f71-4edf-bbad-a6bc4b604546.png" > </p>
+ 
+ <br>
+ <hr>
 
   
-   ![Snake animation](https://github.com/chrysthy/chrysthy/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/chrysthy/chrysthy/blob/output/github-contribution-grid-snake.svg)
    
  
   </div>
    
-   
+   <hr>
  
  
 
