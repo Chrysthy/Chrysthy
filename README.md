@@ -11,6 +11,9 @@
  <div>
   <a href="https://github.com/chryshty">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula"" alt="chrysthy" />
+
+<img align="center" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula"/>
+
 </div>
 
 
@@ -18,8 +21,11 @@
 <h1> Languages </h1>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Chrysthy-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Chrysthy-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Chrysthy-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Chrysthy-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
 
 </div>
 
