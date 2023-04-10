@@ -1,5 +1,7 @@
 <h1> Hello, I'm Chrystine and it's a pleasure to meet you! </h1>
 
+<br>
+
 - 💻 Web Developer Beginner.
 - 🎮 Gamer girl.
 - 🌱  I’m always learning and improving my skills .
@@ -13,7 +15,7 @@
   <a href="https://github.com/chryshty">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula"" alt="chrysthy" />
 
-<img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula"/>
+<img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula"/>
 
 </div>
 
