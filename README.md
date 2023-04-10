@@ -15,7 +15,7 @@
   <a href="https://github.com/chryshty">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula"" alt="chrysthy" />
 
-<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula"/>
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula"/>
 
 </div>
 
