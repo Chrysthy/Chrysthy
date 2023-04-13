@@ -37,7 +37,7 @@
 
 
 <br>
-<h1> Connect with me </h1>
+<h1> Connect With Me </h1>
 
 <div> 
  
