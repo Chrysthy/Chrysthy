@@ -7,7 +7,7 @@
 - 🌱 I’m always learning and improving my skills .
 - 👩🏻 Pronouns: She/Her.
 - ⛰️ BH / 🏖 RJ - Brazil.
-- 🗣️ Portuguese-BR and English-EN.
+- 🗣️ Português-BR and English-EN.
 - 📚 " I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer." Chris Gardner.
 
 <hr>
