@@ -3,6 +3,7 @@
 <br>
 
 - 💻 Web Developer Beginner.
+- 😊 Nickname: Chrysthy.
 - 🎮 Gamer girl.
 - 🌱 I’m always learning and improving my skills .
 - 👩🏻 Pronouns: She/Her.
