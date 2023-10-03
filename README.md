@@ -1,6 +1,6 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" width="200" src="https://github.com/Chrysthy/Chrysthy/assets/126017173/524ba926-7e76-4cd5-987b-f6be839ad721">
 
-<h1> Hello, I'm Chrystine and it's a pleasure to meet you! </h1>
+<h1> Hi, I'm Chrystine and it's a pleasure to meet you! </h1>
 
 - 💻 Web Developer Beginner.
 - 😊 Nickname: Chrysthy.
