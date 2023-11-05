@@ -1,6 +1,6 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" width="200" src="https://github.com/Chrysthy/Chrysthy/assets/126017173/524ba926-7e76-4cd5-987b-f6be839ad721">
 
-<h1> Hi, I'm Chrystine and it's a pleasure to meet you! </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&duration=2000&pause=800&color=F25CD4&random=false&width=435&lines=Hi%2C+I'm+Chrystine!;It's+a+pleasure+to+meet+you!)](https://git.io/typing-svg)
 
 - 💻 Web Developer Beginner.
 - 😊 Nickname: Chrysthy.
