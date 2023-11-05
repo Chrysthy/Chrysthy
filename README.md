@@ -1,6 +1,8 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" width="200" src="https://github.com/Chrysthy/Chrysthy/assets/126017173/524ba926-7e76-4cd5-987b-f6be839ad721">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&duration=2000&pause=800&color=F25CD4&random=false&width=435&lines=Hi%2C+I'm+Chrystine!;It's+a+pleasure+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=60&duration=3000&pause=900&color=F25CD4&random=false&width=700&height=90&lines=Hi%2C+I'm+Chrystine!;It's+a+pleasure+to+meet+you!)](https://git.io/typing-svg)
+
+<hr>
 
 - 💻 Web Developer Beginner.
 - 😊 Nickname: Chrysthy.
@@ -14,8 +16,7 @@
 <hr>
 <br>
  <div>
-  <a href="https://github.com/chryshty">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula"" alt="chrysthy" />
+  <a href="https://github.com/chryshty">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula"" alt="chrysthy" />
 
 <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula"/>
 
@@ -49,21 +50,23 @@
   <a href="https://www.instagram.com/chrysthy.martins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <br>
    <a href="https://www.linkedin.com/in/chrystine-martins-o-v" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
     <a href = "mailto:chrystine.martins@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <br>
-  
- <p align="right"><img height="150" width="150" src="https://user-images.githubusercontent.com/126017173/230391904-dade60ab-7f71-4edf-bbad-a6bc4b604546.png" > </p>
 
+<div align="right"><img height="150" width="150" src="https://user-images.githubusercontent.com/126017173/230391904-dade60ab-7f71-4edf-bbad-a6bc4b604546.png" > </div>
+
+ </div>
  
 <hr>
-
-
   
  ![snake gif](https://github.com/chrysthy/chrysthy/blob/output/github-contribution-grid-snake.svg)
    
- 
-  </div>
    
    <hr>
+   <br>
+   <div align="center">
+    
+ ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FChrysthy&label=Visitors&countColor=%23f25cd4&style=plastic&labelStyle=none)
+    
+   </div>
  
  
 
- 
