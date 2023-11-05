@@ -64,7 +64,7 @@
    <br>
    <div align="center">
     
- ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FChrysthy&label=Visitors&countColor=%23f25cd4&style=plastic&labelStyle=none)
+ ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FChrysthy&label=Visitors&countColor=%23df32a8&style=plastic)
     
    </div>
  
