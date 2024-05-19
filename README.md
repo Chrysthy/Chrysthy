@@ -6,7 +6,7 @@
 
 - 💻 Web Developer Beginner.
 - 👀 Check it out my [Portfolio.](https://chrysthy.github.io/Portfolio/)
-- 😊 Nickname: Chrysthy.
+- 😊 PSN Nickname: Chrysthy.
 - 🎮 Gamer girl.
 - 🌱 I’m always learning and improving my skills .
 - 👩🏻 Pronouns: She/Her.
