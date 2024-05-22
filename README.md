@@ -4,13 +4,12 @@
 
 <hr>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="25" height="25" /> Web Developer Beginner.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="30" height="30" /> Web Developer Beginner.
 - 👀 Check it out my [Portfolio.](https://chrysthy.github.io/Portfolio/)
-- 😊 PSN Nickname: Chrysthy.
-- 🎮 Gamer girl.
-- 🌱 I’m always learning and improving my skills .
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="30" height="30" /> Gamer girl - PSN Nickname: Chrysthy.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" height="30" /> I’m always learning and improving my skills .
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Light%20Skin%20Tone.png" alt="Woman Light Skin Tone" width="30" height="30" /> Pronouns: She/Her.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Mountain.png" alt="Mountain" width="25" height="25" /> BH / <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Beach%20with%20Umbrella.png" alt="Beach with Umbrella" width="25" height="25" /> RJ - Brazil.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Mountain.png" alt="Mountain" width="30" height="30" /> BH / <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Beach%20with%20Umbrella.png" alt="Beach with Umbrella" width="30" height="30" /> RJ - Brazil.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Speaking%20Head.png" alt="Speaking Head" width="30" height="30" /> Português-BR and English-EN.
 - 📚 " I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer." Chris Gardner.
 
