@@ -26,7 +26,7 @@
 <hr>
 
 <br>
-<h1> Languages and Tools </h1>
+<h1> Languages and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="30" height="30" /> </h1>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Chrysthy-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
