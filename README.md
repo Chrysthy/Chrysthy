@@ -12,7 +12,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Camping.webp" alt="Camping" width="30" height="30" /> BH / <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Beach%20With%20Umbrella.webp" alt="Beach With Umbrella" width="30" height="30" /> RJ - Brazil. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Brazil.webp" alt="Flag Brazil" width="36" height="36" />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Speaking%20Head.png" alt="Speaking Head" width="30" height="30" /> Português-BR and English-EN.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> " I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer." Chris Gardner.
-
+<br>
 <hr>
 <br>
  <div>
@@ -22,10 +22,9 @@
 
 
 </div>
- <br>
+<br>
 <hr>
 
-<br>
 <h1> Languages and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="30" height="30" /> </h1>
 
 <div style="display: inline_block"><br>
@@ -43,6 +42,7 @@
 
 
 <br>
+<hr>
 <h1> Connect With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telephone.webp" alt="Telephone" width="30" height="30" /> </h1>
 
 <div> 
@@ -51,15 +51,16 @@
    <a href="https://www.linkedin.com/in/chrystine-martins-o-v" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn logo" target="_blank"></a> <br>
     <a href = "mailto:chrystine.martins@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" target="_blank"></a>  <br>
 
-<div align="right"><img height="150" width="150" src="https://user-images.githubusercontent.com/126017173/230391904-dade60ab-7f71-4edf-bbad-a6bc4b604546.png" > </div>
+<!-- <div align="right"><img height="150" width="150" src="https://user-images.githubusercontent.com/126017173/230391904-dade60ab-7f71-4edf-bbad-a6bc4b604546.png" > </div> -->
 
  </div>
- 
+
+ <br>
 <hr>
   
  ![snake gif](https://github.com/chrysthy/chrysthy/blob/output/github-contribution-grid-snake.svg)
    
-   
+   <br>
    <hr>
    <br>
    <div align="center">
