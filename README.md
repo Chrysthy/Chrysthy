@@ -60,8 +60,8 @@
 
  <br>
 <hr>
-  
- ![snake gif](https://github.com/chrysthy/chrysthy/blob/output/github-contribution-grid-snake.svg)
+
+ ![snake gif](https://raw.githubusercontent.com/chrysthy/chrysthy/output/github-contribution-grid-snake.svg)
    
    <br>
    <hr>
