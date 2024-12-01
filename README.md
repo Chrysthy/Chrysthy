@@ -26,7 +26,7 @@
 <br>
 <hr>
 
-<h1> Languages and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="30" height="30" /> </h1>
+<h2> Languages and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="35" height="35" /> </h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Chrysthy-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -47,7 +47,7 @@
 
 <br>
 <hr>
-<h1> Connect With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telephone.webp" alt="Telephone" width="30" height="30" /> </h1>
+<h2> Connect With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="35" height="35" /> </h2>
 
 <div> 
  
