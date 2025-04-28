@@ -13,6 +13,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Light%20Skin%20Tone.png" alt="Woman Light Skin Tone" width="30" height="30" /> Pronouns: She/Her.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Camping.webp" alt="Camping" width="30" height="30" /> BH / <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Beach%20With%20Umbrella.webp" alt="Beach With Umbrella" width="30" height="30" /> RJ - Brazil. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Brazil.webp" alt="Flag Brazil" width="36" height="36" />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Speaking%20Head.png" alt="Speaking Head" width="30" height="30" /> Português-BR and English-EN.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="30" height="30" /> chrystine.martins@outlook.com.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> " I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer." Chris Gardner.
 <br>
 
