@@ -27,7 +27,7 @@
 
 <details> 
     <summary>    
-        <b>More Info</b>            
+        <b>Click here for more information.</b>            
     </summary>
 
 <br>
