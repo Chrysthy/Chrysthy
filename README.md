@@ -36,12 +36,15 @@
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="35" /> GitHub Overview</h2>
 
  <div align="center">
-  <a href="https://github.com/chryshty">&nbsp;<img height="230em" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula" />
 
 <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula" alt="most used languages"/>
 
+<br>
+
+  <a href="https://github.com/chryshty">&nbsp;<img height="230em" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula" />
 
 </div>
+
 <br>
 <!--<hr>-->
     
