@@ -46,8 +46,9 @@
 </div>
 
 <br>
+
+<!--[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chrysthy&theme=dracula)](https://github.com/Chrysthy/github-readme-stats)-->
 <!--<hr>-->
-    
 
  <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="35" height="35" /> Languages and Tools </h2>
  
@@ -88,6 +89,7 @@
 <!-- <div align="right"><img height="150" width="150" src="https://user-images.githubusercontent.com/126017173/230391904-dade60ab-7f71-4edf-bbad-a6bc4b604546.png" > </div> -->
 
  </div>
+ 
 
  </details>
 
