@@ -74,7 +74,7 @@
 
 <br>
 
-<h2>Learning</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="35" height="35" /> Learning</h2>
 
 <div style="display: inline_block"><br>  
    <img align="center" alt="Chrysthy-docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">      
