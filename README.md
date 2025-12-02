@@ -41,7 +41,7 @@
 
 <br>
 
-  <a href="https://github.com/chryshty">&nbsp;<img height="230em" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula" />
+  <a href="https://github.com/chrysthy">&nbsp;<img height="230em" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula"></a>
 
 </div>
 
