@@ -109,7 +109,7 @@
 <h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" /> Commit Journey</h2>
 
 <div align="center">
-  <img src="https://github.com/chrysthy/chrysthy/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/chrysthy/chrysthy/blob/output/github-contribution-grid-snake.svg?v=2" alt="snake gif" />
 </div>
 
 <!--![snake gif](https://github.com/chrysthy/chrysthy/blob/output/github-contribution-grid-snake.svg)-->
