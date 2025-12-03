@@ -37,18 +37,20 @@
 
  <div align="center">
 
-<img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula" alt="most used languages"/>
+<!-- <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula" alt="most used languages"/> -->
+
+<img height="230em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula" alt="most used languages" />
+
 
 <br>
 
-  <a href="https://github.com/chrysthy">&nbsp;<img height="230em" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula"></a>
+ <!-- <a href="https://github.com/chrysthy">&nbsp;<img height="230em" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula"></a> -->
+
+  <img height="230em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula" />
 
 </div>
 
 <br>
-
-<!--[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chrysthy&theme=dracula)](https://github.com/Chrysthy/github-readme-stats)-->
-<!--<hr>-->
 
  <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="35" height="35" /> Languages and Tools </h2>
  
