@@ -4,8 +4,9 @@
 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" width="200" src="https://github.com/Chrysthy/Chrysthy/assets/126017173/524ba926-7e76-4cd5-987b-f6be839ad721"> 
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="30" height="30" /> Web Developer Beginner.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="30" height="30" /> Bachelor's Degree in Software Development - In progress.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="30" height="30" /> Building automation, AI and web projects
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Glowing%20Star.webp" alt="Glowing Star" width="25" height="30" /> Transitioning from Human Resources to Technology
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="30" height="30" /> Studying Analysis and Systems Development (Software Development Degree)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="30" height="30" /> Check out my [Portfolio.](https://chrysthy.github.io/Portfolio/)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="30" height="30" /> E-mail: chrystine.martins@outlook.com.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" height="30" /> I’m always learning and improving my skills .
@@ -54,37 +55,47 @@
 
  <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="35" height="35" /> Languages and Tools </h2>
  
- <div style="display: inline_block"><br>
+
+<h3>Core Stack </h3>
+
+ <div style="display: inline_block">
    <img align="center" alt="Chrysthy-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img align="center" alt="Chrysthy-Github" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
    <img align="center" alt="Chrysthy-Vscode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-   <img align="center" alt="Chrysthy-Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-   <img align="center" alt="Chrysthy-bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-   <img align="center" alt="Chrysthy-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Chrysthy-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Chrysthy-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Chrysthy-NodeJS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
    <img align="center" alt="Chrysthy-NPM" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-   <img align="center" alt="Chrysthy-jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-   <img align="center" alt="Chrysthy-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Chrysthy-MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
    <img align="center" alt="Chrysthy-Postman" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-   <img align="center" alt="Chrysthy-TS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">   
     
-
+   - 🤖 AI integrations and tools
+   - 🔗 APIs and system integrations
+      
 </div>
+    
+<h3>Also Worked With </h3>
+
+   <div style="display: inline_block">  
+      <img align="center" alt="Chrysthy-Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+      <img align="center" alt="Chrysthy-bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+      <img align="center" alt="Chrysthy-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="Chrysthy-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="Chrysthy-jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+      <img align="center" alt="Chrysthy-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" alt="Chrysthy-MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+      <img align="center" alt="Chrysthy-TS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+
+   </div>
 
 <br>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="35" height="35" /> Learning</h2>
 
-<div style="display: inline_block"><br>  
-   <img align="center" alt="Chrysthy-docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">      
-   <img align="center" alt="Chrysthy-N8N" height="60" width="60" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png">    
-   <img align="center" alt="Chrysthy-Ruby" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+<div style="display: inline_block">
+   <img align="center" alt="Chrysthy-docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">   
+   <img align="center" alt="Chrysthy-N8N" height="60" width="60" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png">   
+   <img align="center" alt="Chrysthy-Python" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
-
 
 <br>
 <!--<hr>-->
