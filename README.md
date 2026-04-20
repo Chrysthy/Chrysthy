@@ -34,7 +34,7 @@
 
 <br>
 
-<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="35" /> GitHub Overview</h2>
+<h2> <img src="src/images/Bar Chart.webp" alt="Bar Chart" width="35" height="35" /> GitHub Overview</h2>
 
  <div align="center">
 
@@ -53,7 +53,7 @@
 
 <br>
 
- <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="35" height="35" /> Languages and Tools </h2>
+ <h2> <img src="src/images/Toolbox.webp" alt="Toolbox" width="35" height="35" /> Languages and Tools </h2>
  
 
 <h3>Core Stack </h3>
@@ -88,7 +88,7 @@
 
 <br>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="35" height="35" /> Learning</h2>
+<h2><img src="src/images/File Folder.webp" alt="File Folder" width="35" height="35" /> Learning</h2>
 
 <div style="display: inline_block">
    <img align="center" alt="Chrysthy-docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">   
@@ -99,7 +99,7 @@
 
 <br>
 <!--<hr>-->
-<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="35" height="35" /> Connect With Me </h2>
+<h2> <img src="src/images/Inbox Tray.webp" alt="Inbox Tray" width="35" height="35" /> Connect With Me </h2>
 
 <div> 
  
@@ -117,7 +117,7 @@
  <br>
 <!--<hr>-->
 
-<h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" /> Commit Journey</h2>
+<h2 align="center"> <img src="src/images/Snake.webp" alt="Snake" width="30" height="30" /> Commit Journey</h2>
 
 <div align="center">
   <img src="https://github.com/chrysthy/chrysthy/blob/output/github-contribution-grid-snake.svg?v=2" alt="snake gif" />
