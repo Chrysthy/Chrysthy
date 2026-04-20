@@ -7,13 +7,13 @@
 - <img src="src/images/Laptop.webp" alt="Laptop" width="30" height="30" /> Building automation, AI and web solutions
 - <img src="src/images/Sparkles.webp" alt="Glowing Star" width="25" height="30" /> Transitioning from Human Resources to Technology
 - <img src="src/images/Graduation Cap.webp" alt="Graduation Cap" width="30" height="30" /> Studying Analysis and Systems Development (Software Development Degree)
-- <img src="src/images/Eyes.png" alt="Eyes" width="30" height="30" /> Check out my [Portfolio.](https://chrysthy.github.io/Portfolio/)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="30" height="30" /> E-mail: chrystine.martins@outlook.com.
+- <img src="src/images/Eyes.webp" alt="Eyes" width="30" height="30" /> Check out my [Portfolio.](https://chrysthy.github.io/Portfolio/)
+- <img src="src/images/Speech Balloon.webp" alt="Speech Balloon" width="30" height="30" /> E-mail: chrystine.martins@outlook.com.
 - <img src="src/images/Brain.png" alt="Brain" width="30" height="30" /> I’m always learning and improving my skills .
 - <img src="src/images/Video Game.webp" alt="Video Game" width="30" height="30" /> Gamer girl - PSN Nickname: Chrysthy.
 - <img src="src/images/Cat Face.webp" alt="Cat Face" width="30" height="30" /> I'm an animal lover.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Light%20Skin%20Tone.png" alt="Woman Light Skin Tone" width="30" height="30" /> Pronouns: She/Her.
-- <img src="src/images/Camping.webp" alt="Camping" width="30" height="30" /> BH / <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Beach%20With%20Umbrella.webp" alt="Beach With Umbrella" width="30" height="30" /> RJ - Brazil. <img src="src/images/Beach With Umbrella.webp" alt="Flag Brazil" width="36" height="36" />
+- <img src="src/images/Woman Raising Hand Light Skin Tone.png" alt="Woman Light Skin Tone" width="30" height="30" /> Pronouns: She/Her.
+- <img src="src/images/Camping.webp" alt="Camping" width="30" height="30" /> BH / <img src="src/images/Beach With Umbrella.webp" alt="Beach With Umbrella" width="30" height="30" /> RJ - Brazil. <img src="src/images/Flag Brazil.webp" alt="Flag Brazil" width="36" height="36" />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Speaking%20Head.png" alt="Speaking Head" width="30" height="30" /> Português-BR and English-EN.
 - <img src="src/images/Books.webp" alt="Books" width="30" height="30" /> " I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer." Chris Gardner.
 <br>
