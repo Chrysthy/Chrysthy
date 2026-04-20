@@ -5,22 +5,22 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" width="200" src="https://github.com/Chrysthy/Chrysthy/assets/126017173/524ba926-7e76-4cd5-987b-f6be839ad721"> 
 
 - <img src="src/images/Laptop.webp" alt="Laptop" width="30" height="30" /> Building automation, AI and web solutions
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Glowing%20Star.webp" alt="Glowing Star" width="25" height="30" /> Transitioning from Human Resources to Technology
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="30" height="30" /> Studying Analysis and Systems Development (Software Development Degree)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="30" height="30" /> Check out my [Portfolio.](https://chrysthy.github.io/Portfolio/)
+- <img src="src/images/Sparkles.webp" alt="Glowing Star" width="25" height="30" /> Transitioning from Human Resources to Technology
+- <img src="src/images/Graduation Cap.webp" alt="Graduation Cap" width="30" height="30" /> Studying Analysis and Systems Development (Software Development Degree)
+- <img src="src/images/Eyes.png" alt="Eyes" width="30" height="30" /> Check out my [Portfolio.](https://chrysthy.github.io/Portfolio/)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="30" height="30" /> E-mail: chrystine.martins@outlook.com.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" height="30" /> I’m always learning and improving my skills .
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="30" height="30" /> Gamer girl - PSN Nickname: Chrysthy.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cat%20Face.webp" alt="Cat Face" width="30" height="30" /> I'm an animal lover.
+- <img src="src/images/Brain.png" alt="Brain" width="30" height="30" /> I’m always learning and improving my skills .
+- <img src="src/images/Video Game.webp" alt="Video Game" width="30" height="30" /> Gamer girl - PSN Nickname: Chrysthy.
+- <img src="src/images/Cat Face.webp" alt="Cat Face" width="30" height="30" /> I'm an animal lover.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Light%20Skin%20Tone.png" alt="Woman Light Skin Tone" width="30" height="30" /> Pronouns: She/Her.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Camping.webp" alt="Camping" width="30" height="30" /> BH / <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Beach%20With%20Umbrella.webp" alt="Beach With Umbrella" width="30" height="30" /> RJ - Brazil. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Brazil.webp" alt="Flag Brazil" width="36" height="36" />
+- <img src="src/images/Camping.webp" alt="Camping" width="30" height="30" /> BH / <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Beach%20With%20Umbrella.webp" alt="Beach With Umbrella" width="30" height="30" /> RJ - Brazil. <img src="src/images/Beach With Umbrella.webp" alt="Flag Brazil" width="36" height="36" />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Speaking%20Head.png" alt="Speaking Head" width="30" height="30" /> Português-BR and English-EN.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> " I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer." Chris Gardner.
+- <img src="src/images/Books.webp" alt="Books" width="30" height="30" /> " I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer." Chris Gardner.
 <br>
 
    <div align="center">
     
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Star.webp" alt="Star" width="25" height="25" /> ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FChrysthy&label=Visitors&countColor=%23df32a8&style=plastic)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Star.webp" alt="Star" width="25" height="25" />
+<img src="src/images/Star.webp" alt="Star" width="25" height="25" /> ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FChrysthy&label=Visitors&countColor=%23df32a8&style=plastic)  <img src="src/images/Star.webp" alt="Star" width="25" height="25" />
     
    </div>
 
@@ -117,7 +117,7 @@
  <br>
 <!--<hr>-->
 
-<h2 align="center"> <img src="src/images/Snake.webp" alt="Snake" width="30" height="30" /> Commit Journey</h2>
+<h2 align="center"> <img src="src/images/Snake.webp" alt="Snake" width="50" height="50" /> Commit Journey</h2>
 
 <div align="center">
   <img src="https://github.com/chrysthy/chrysthy/blob/output/github-contribution-grid-snake.svg?v=2" alt="snake gif" />
