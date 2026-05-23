@@ -131,7 +131,7 @@
 
 
    <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdjeW1sZW93d3R1bXd5b3Y4dnhheTNseHF1bHBkY3R4YnZuaXl5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UPNs8vXyJESQ/giphy.gif" width="150">
+  <img src="src/images/patinha.gif" width="150">
 </div>
  
  
