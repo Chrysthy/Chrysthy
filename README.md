@@ -7,7 +7,7 @@
 - <img src="src/images/Laptop.webp" alt="Laptop" width="30" height="30" /> Building automation, AI and web solutions
 - <img src="src/images/Sparkles.webp" alt="Glowing Star" width="25" height="30" /> Transitioning from Human Resources to Technology
 - <img src="src/images/Graduation Cap.webp" alt="Graduation Cap" width="30" height="30" /> Studying Analysis and Systems Development (Software Development Degree)
-- <img src="src/images/Eyes.webp" alt="Eyes" width="30" height="30" /> Check out my [Portfolio.](https://chrysthy.github.io/Portfolio/)
+- <img src="src/images/Eyes.webp" alt="Eyes" width="30" height="30" /> Check out my [Portfolio.](https://chrysthy.github.io/flipfolio/)
 - <img src="src/images/Speech Balloon.webp" alt="Speech Balloon" width="30" height="30" /> E-mail: chrystine.martins@outlook.com.
 - <img src="src/images/Brain.png" alt="Brain" width="30" height="30" /> I’m always learning and improving my skills .
 - <img src="src/images/Video Game.webp" alt="Video Game" width="30" height="30" /> Gamer girl - PSN Nickname: Chrysthy.
