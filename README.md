@@ -16,6 +16,11 @@
 - <img src="src/images/Camping.webp" alt="Camping" width="30" height="30" /> BH / <img src="src/images/Beach With Umbrella.webp" alt="Beach With Umbrella" width="30" height="30" /> RJ - Brazil. <img src="src/images/Flag Brazil.webp" alt="Flag Brazil" width="36" height="36" />
 - <img src="src/images/Speaking Head.png" alt="Speaking Head" width="30" height="30" /> Português-BR and English-EN.
 - <img src="src/images/Books.webp" alt="Books" width="30" height="30" /> " I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer." Chris Gardner.
+
+<br>
+
+- If you want to become a developer, I strongly recommend Scrimba: https://scrimba.com/?via=u011e68
+
 <br>
 
    <div align="center">
