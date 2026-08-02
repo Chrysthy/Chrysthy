@@ -19,7 +19,7 @@
 
 <br>
 
-- If you want to become a developer, I strongly recommend Scrimba: https://scrimba.com/?via=u011e68
+- <img src="src/images/Gem Stone.webp" alt="Books" width="30" height="30" />If you want to become a developer, I strongly recommend Scrimba: https://scrimba.com/?via=u011e68
 
 <br>
 
