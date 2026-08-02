@@ -19,7 +19,7 @@
 
 <br>
 
-- <img src="src/images/Gem Stone.webp" alt="Gem Stone" width="25" height="25" />If you want to become a developer, I strongly recommend Scrimba: https://scrimba.com/?via=u011e68
+- <img src="src/images/Gem Stone.webp" alt="Gem Stone" width="25" height="25" />If you want to become a developer, I strongly recommend [Scrimba](https://scrimba.com/?via=u011e68).
 
 <br>
 
