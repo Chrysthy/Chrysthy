@@ -43,16 +43,22 @@
 
  <div align="center">
 
-<!-- <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula" alt="most used languages"/> -->
+<!-- erro 1 <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula" alt="most used languages"/> -->
 
-<img height="230em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula" alt="most used languages" />
+<!-- erro 2 <img height="230em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula" alt="most used languages" /> -->
+
+<img width="520" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=8&theme=dracula&card_width=450&border_radius=8"
+     alt="most used languages" />
 
 
 <br>
 
- <!-- <a href="https://github.com/chrysthy">&nbsp;<img height="230em" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula"></a> -->
+ <!-- erro 1 <a href="https://github.com/chrysthy">&nbsp;<img height="230em" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula"></a> -->
 
-  <img height="230em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula" />
+<!-- erro 2  <img height="230em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula" /> -->
+
+  <img width="520" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula&card_width=450&border_radius=8"
+       alt="GitHub stats" />
 
 </div>
 
