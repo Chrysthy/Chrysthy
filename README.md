@@ -41,24 +41,15 @@
 
 <h2> <img src="src/images/Bar Chart.webp" alt="Bar Chart" width="35" height="35" /> GitHub Overview</h2>
 
- <div align="center">
+<div align="center">
 
-<!-- erro 1 <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula" alt="most used languages"/> -->
-
-<!-- erro 2 <img height="230em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=16&theme=dracula" alt="most used languages" /> -->
-
-<img width="520" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chrysthy&layout=compact&langs_count=8&theme=dracula&card_width=450&border_radius=8"
-     alt="most used languages" />
-
+<img width="540" src="profile/top-langs.svg" alt="Most used languages">
 
 <br>
 
- <!-- erro 1 <a href="https://github.com/chrysthy">&nbsp;<img height="230em" src="https://github-readme-stats.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula"></a> -->
-
-<!-- erro 2  <img height="230em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula" /> -->
-
-  <img width="520" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chrysthy&show_icons=true&theme=dracula&card_width=450&border_radius=8"
-       alt="GitHub stats" />
+<a href="https://github.com/chrysthy">
+<img width="540" src="profile/github-stats.svg" alt="GitHub stats">
+</a>
 
 </div>
 
