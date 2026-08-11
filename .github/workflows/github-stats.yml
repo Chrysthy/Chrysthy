@@ -1,0 +1,43 @@
+name: Update GitHub Overview
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "17 9 * * *"
+      timezone: "America/Sao_Paulo"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=chrysthy&show_icons=true&theme=dracula&card_width=450&border_radius=8
+          path: profile/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=chrysthy&layout=compact&langs_count=8&theme=dracula&card_width=450&border_radius=8
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update GitHub stats cards" || exit 0
+          git push
