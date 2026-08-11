@@ -30,7 +30,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=chrysthy&layout=compact&langs_count=8&theme=dracula&card_width=450&border_radius=8
+          options: username=chrysthy&layout=compact&langs_count=12&theme=dracula&card_width=450&border_radius=8
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
