@@ -22,7 +22,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=chrysthy&show_icons=true&theme=dracula&card_width=450&border_radius=8
+          options: username=chrysthy&show_icons=true&theme=dracula&card_width=450&border_radius=8&rank_icon=github
           path: profile/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
