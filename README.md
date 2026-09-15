@@ -96,6 +96,7 @@
    <img alt="Docker" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
    <img alt="n8n" height="50" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png">
    <img alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img alt="SQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
 
 </div>
 
