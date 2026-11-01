@@ -125,7 +125,7 @@
 <div align="center">
   <!-- <img src="https://github.com/chrysthy/chrysthy/blob/output/github-contribution-grid-snake.svg?v=2" alt="snake gif" /> -->
    
-   <img src="https://raw.githubusercontent.com/Chrysthy/Chrysthy/output/github-contribution-grid-snake.svg?v=halloween2026" alt="Halloween Snake" />
+   <img src="https://raw.githubusercontent.com/Chrysthy/Chrysthy/output/github-contribution-grid-snake.svg?v=halloween2026New" alt="Halloween Snake" />
 
 </div>
 
