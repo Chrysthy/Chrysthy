@@ -23,11 +23,12 @@ jobs:
       - name: Generate Halloween Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-                      
+          github_user_name: ${{ github.repository_owner }}                      
+          
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#f28c18&color_dots=#e4e4e4,#ffd84a,#ffbd21,#f28c18,#171717
             dist/github-contribution-grid-snake-dark.svg?color_snake=#f28c18&color_dots=#303030,#ffd84a,#ffbd21,#f28c18,#171717
+
 
 
 
