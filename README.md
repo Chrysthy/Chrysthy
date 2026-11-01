@@ -123,9 +123,10 @@
 <h2 align="center"> <img src="src/images/Snake.webp" alt="Snake" width="50" height="50" /> Commit Journey</h2>
 
 <div align="center">
-  <!-- <img src="https://github.com/chrysthy/chrysthy/blob/output/github-contribution-grid-snake.svg?v=2" alt="snake gif" /> -->   
+  <!-- <img src="https://github.com/chrysthy/chrysthy/blob/output/github-contribution-grid-snake.svg?v=2" alt="snake gif" /> -->      
    
-   <img src="https://raw.githubusercontent.com/Chrysthy/Chrysthy/output/github-contribution-grid-snake.svg?v=halloween-balanced" alt="Halloween Snake" />
+   <img src="https://raw.githubusercontent.com/Chrysthy/Chrysthy/output/github-contribution-grid-snake.svg?v=halloween-balanced-v2" alt="Halloween Snake" />
+
 
 
 
